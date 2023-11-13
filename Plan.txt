@@ -1,0 +1,4 @@
+1. Using passport , express and mysql2 create server, connect database and login with passport
+2. Registration API Creation
+3. Password reset
+4. 
